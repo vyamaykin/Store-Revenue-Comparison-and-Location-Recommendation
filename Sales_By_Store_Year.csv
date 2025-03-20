@@ -1,0 +1,939 @@
+﻿Year,Store Name,Day Name,Total Revenue
+2021,Alton,Sunday,$220566
+2021,Alton,Monday,$241663
+2021,Alton,Tuesday,$253255
+2021,Alton,Wednesday,$259073
+2021,Alton,Thursday,$263422
+2021,Alton,Friday,$311285
+2021,Alton,Saturday,$315041
+2021,Arnold,Sunday,$211639
+2021,Arnold,Monday,$206983
+2021,Arnold,Tuesday,$215830
+2021,Arnold,Wednesday,$221053
+2021,Arnold,Thursday,$227529
+2021,Arnold,Friday,$269734
+2021,Arnold,Saturday,$299801
+2021,Bayless,Sunday,$137001
+2021,Bayless,Monday,$131743
+2021,Bayless,Tuesday,$135430
+2021,Bayless,Wednesday,$140079
+2021,Bayless,Thursday,$138729
+2021,Bayless,Friday,$158108
+2021,Bayless,Saturday,$172635
+2021,Belleville,Sunday,$125209
+2021,Belleville,Monday,$149472
+2021,Belleville,Tuesday,$149949
+2021,Belleville,Wednesday,$162923
+2021,Belleville,Thursday,$158113
+2021,Belleville,Friday,$193013
+2021,Belleville,Saturday,$195374
+2021,Brentwood,Sunday,$130446
+2021,Brentwood,Monday,$138757
+2021,Brentwood,Tuesday,$139151
+2021,Brentwood,Wednesday,$149225
+2021,Brentwood,Thursday,$138318
+2021,Brentwood,Friday,$173652
+2021,Brentwood,Saturday,$201689
+2021,Bridgeton Outlet,Sunday,$222681
+2021,Bridgeton Outlet,Monday,$215388
+2021,Bridgeton Outlet,Tuesday,$222397
+2021,Bridgeton Outlet,Wednesday,$219854
+2021,Bridgeton Outlet,Thursday,$217948
+2021,Bridgeton Outlet,Friday,$228841
+2021,Bridgeton Outlet,Saturday,$252197
+2021,Cape Girardeau,Sunday,$174321
+2021,Cape Girardeau,Monday,$207324
+2021,Cape Girardeau,Tuesday,$214153
+2021,Cape Girardeau,Wednesday,$228951
+2021,Cape Girardeau,Thursday,$227950
+2021,Cape Girardeau,Friday,$245103
+2021,Cape Girardeau,Saturday,$275489
+2021,Carbondale,Sunday,$155157
+2021,Carbondale,Monday,$181106
+2021,Carbondale,Tuesday,$178137
+2021,Carbondale,Wednesday,$187958
+2021,Carbondale,Thursday,$182738
+2021,Carbondale,Friday,$211188
+2021,Carbondale,Saturday,$235726
+2021,Centralia,Sunday,$110186
+2021,Centralia,Monday,$127688
+2021,Centralia,Tuesday,$142606
+2021,Centralia,Wednesday,$152639
+2021,Centralia,Thursday,$149463
+2021,Centralia,Friday,$174620
+2021,Centralia,Saturday,$156178
+2021,Chesterfield Forum Center,Sunday,$190111
+2021,Chesterfield Forum Center,Monday,$209623
+2021,Chesterfield Forum Center,Tuesday,$229377
+2021,Chesterfield Forum Center,Wednesday,$225473
+2021,Chesterfield Forum Center,Thursday,$226114
+2021,Chesterfield Forum Center,Friday,$280614
+2021,Chesterfield Forum Center,Saturday,$305922
+2021,Chesterfield Valley,Sunday,$192448
+2021,Chesterfield Valley,Monday,$169268
+2021,Chesterfield Valley,Tuesday,$179919
+2021,Chesterfield Valley,Wednesday,$179257
+2021,Chesterfield Valley,Thursday,$188459
+2021,Chesterfield Valley,Friday,$241834
+2021,Chesterfield Valley,Saturday,$297596
+2021,Clayton Road,Sunday,$123178
+2021,Clayton Road,Monday,$138201
+2021,Clayton Road,Tuesday,$156732
+2021,Clayton Road,Wednesday,$150619
+2021,Clayton Road,Thursday,$149872
+2021,Clayton Road,Friday,$194182
+2021,Clayton Road,Saturday,$206366
+2021,Columbia,Sunday,$278516
+2021,Columbia,Monday,$316375
+2021,Columbia,Tuesday,$335444
+2021,Columbia,Wednesday,$321983
+2021,Columbia,Thursday,$325488
+2021,Columbia,Friday,$354319
+2021,Columbia,Saturday,$416747
+2021,Fairview Heights,Sunday,$179538
+2021,Fairview Heights,Monday,$178489
+2021,Fairview Heights,Tuesday,$190796
+2021,Fairview Heights,Wednesday,$190495
+2021,Fairview Heights,Thursday,$184486
+2021,Fairview Heights,Friday,$225510
+2021,Fairview Heights,Saturday,$263703
+2021,Farmington,Sunday,$178092
+2021,Farmington,Monday,$211000
+2021,Farmington,Tuesday,$220618
+2021,Farmington,Wednesday,$231311
+2021,Farmington,Thursday,$241562
+2021,Farmington,Friday,$268776
+2021,Farmington,Saturday,$282797
+2021,Fenton,Sunday,$146478
+2021,Fenton,Monday,$144537
+2021,Fenton,Tuesday,$153217
+2021,Fenton,Wednesday,$162078
+2021,Fenton,Thursday,$153981
+2021,Fenton,Friday,$192166
+2021,Fenton,Saturday,$204277
+2021,Ferguson,Sunday,$112096
+2021,Ferguson,Monday,$133936
+2021,Ferguson,Tuesday,$138393
+2021,Ferguson,Wednesday,$152258
+2021,Ferguson,Thursday,$140066
+2021,Ferguson,Friday,$167731
+2021,Ferguson,Saturday,$176932
+2021,Festus,Sunday,$187520
+2021,Festus,Monday,$220742
+2021,Festus,Tuesday,$234173
+2021,Festus,Wednesday,$239311
+2021,Festus,Thursday,$229173
+2021,Festus,Friday,$253768
+2021,Festus,Saturday,$268877
+2021,Florissant Square,Sunday,$238600
+2021,Florissant Square,Monday,$256523
+2021,Florissant Square,Tuesday,$261774
+2021,Florissant Square,Wednesday,$286979
+2021,Florissant Square,Thursday,$274425
+2021,Florissant Square,Friday,$322269
+2021,Florissant Square,Saturday,$350323
+2021,Glen Carbon,Sunday,$242231
+2021,Glen Carbon,Monday,$256485
+2021,Glen Carbon,Tuesday,$259348
+2021,Glen Carbon,Wednesday,$283358
+2021,Glen Carbon,Thursday,$270746
+2021,Glen Carbon,Friday,$327645
+2021,Glen Carbon,Saturday,$363475
+2021,Granite City,Sunday,$189159
+2021,Granite City,Monday,$230948
+2021,Granite City,Tuesday,$237412
+2021,Granite City,Wednesday,$251593
+2021,Granite City,Thursday,$251784
+2021,Granite City,Friday,$304232
+2021,Granite City,Saturday,$307601
+2021,Hannibal,Sunday,$157811
+2021,Hannibal,Monday,$152991
+2021,Hannibal,Tuesday,$156294
+2021,Hannibal,Wednesday,$168753
+2021,Hannibal,Thursday,$165879
+2021,Hannibal,Friday,$226181
+2021,Hannibal,Saturday,$239959
+2021,Harvester,Sunday,$274264
+2021,Harvester,Monday,$255836
+2021,Harvester,Tuesday,$258489
+2021,Harvester,Wednesday,$282203
+2021,Harvester,Thursday,$280648
+2021,Harvester,Friday,$342329
+2021,Harvester,Saturday,$414631
+2021,Jefferson City,Sunday,$202341
+2021,Jefferson City,Monday,$217672
+2021,Jefferson City,Tuesday,$229488
+2021,Jefferson City,Wednesday,$252399
+2021,Jefferson City,Thursday,$242000
+2021,Jefferson City,Friday,$292395
+2021,Jefferson City,Saturday,$320876
+2021,Jennings,Sunday,$90692
+2021,Jennings,Monday,$103347
+2021,Jennings,Tuesday,$102242
+2021,Jennings,Wednesday,$110415
+2021,Jennings,Thursday,$113892
+2021,Jennings,Friday,$134662
+2021,Jennings,Saturday,$141496
+2021,Lake St. Louis,Sunday,$348259
+2021,Lake St. Louis,Monday,$343480
+2021,Lake St. Louis,Tuesday,$337043
+2021,Lake St. Louis,Wednesday,$341951
+2021,Lake St. Louis,Thursday,$340830
+2021,Lake St. Louis,Friday,$418436
+2021,Lake St. Louis,Saturday,$496871
+2021,Manchester,Sunday,$192062
+2021,Manchester,Monday,$184439
+2021,Manchester,Tuesday,$205331
+2021,Manchester,Wednesday,$203425
+2021,Manchester,Thursday,$203909
+2021,Manchester,Friday,$256812
+2021,Manchester,Saturday,$298550
+2021,Marion,Sunday,$152847
+2021,Marion,Monday,$169964
+2021,Marion,Tuesday,$173939
+2021,Marion,Wednesday,$184463
+2021,Marion,Thursday,$178587
+2021,Marion,Friday,$222501
+2021,Marion,Saturday,$241447
+2021,Market Outlet,Sunday,$265377
+2021,Market Outlet,Monday,$262445
+2021,Market Outlet,Tuesday,$252187
+2021,Market Outlet,Wednesday,$254384
+2021,Market Outlet,Thursday,$251717
+2021,Market Outlet,Friday,$265165
+2021,Market Outlet,Saturday,$300566
+2021,Moberly,Sunday,$167685
+2021,Moberly,Monday,$207137
+2021,Moberly,Tuesday,$210481
+2021,Moberly,Wednesday,$234096
+2021,Moberly,Thursday,$232281
+2021,Moberly,Friday,$278225
+2021,Moberly,Saturday,$275889
+2021,O'Fallon,Sunday,$216587
+2021,O'Fallon,Monday,$211631
+2021,O'Fallon,Tuesday,$222752
+2021,O'Fallon,Wednesday,$226742
+2021,O'Fallon,Thursday,$220652
+2021,O'Fallon,Friday,$263516
+2021,O'Fallon,Saturday,$324079
+2021,Ozark,Sunday,$170275
+2021,Ozark,Monday,$179042
+2021,Ozark,Tuesday,$185585
+2021,Ozark,Wednesday,$191801
+2021,Ozark,Thursday,$194796
+2021,Ozark,Friday,$224175
+2021,Ozark,Saturday,$249886
+2021,Poplar Bluff,Sunday,$185163
+2021,Poplar Bluff,Monday,$217029
+2021,Poplar Bluff,Tuesday,$221675
+2021,Poplar Bluff,Wednesday,$225741
+2021,Poplar Bluff,Thursday,$230069
+2021,Poplar Bluff,Friday,$280047
+2021,Poplar Bluff,Saturday,$290650
+2021,Rolla,Sunday,$160062
+2021,Rolla,Monday,$196308
+2021,Rolla,Tuesday,$201921
+2021,Rolla,Wednesday,$209491
+2021,Rolla,Thursday,$205466
+2021,Rolla,Friday,$266184
+2021,Rolla,Saturday,$277805
+2021,Sikeston,Sunday,$141238
+2021,Sikeston,Monday,$159032
+2021,Sikeston,Tuesday,$174245
+2021,Sikeston,Wednesday,$182553
+2021,Sikeston,Thursday,$180506
+2021,Sikeston,Friday,$211592
+2021,Sikeston,Saturday,$235658
+2021,South County,Sunday,$314136
+2021,South County,Monday,$290435
+2021,South County,Tuesday,$305699
+2021,South County,Wednesday,$312398
+2021,South County,Thursday,$310690
+2021,South County,Friday,$395826
+2021,South County,Saturday,$453071
+2021,Springfield Battlefield,Sunday,$234723
+2021,Springfield Battlefield,Monday,$259201
+2021,Springfield Battlefield,Tuesday,$265501
+2021,Springfield Battlefield,Wednesday,$282809
+2021,Springfield Battlefield,Thursday,$268800
+2021,Springfield Battlefield,Friday,$302009
+2021,Springfield Battlefield,Saturday,$338199
+2021,Springfield Chestnut Crossing,Sunday,$151350
+2021,Springfield Chestnut Crossing,Monday,$149399
+2021,Springfield Chestnut Crossing,Tuesday,$159331
+2021,Springfield Chestnut Crossing,Wednesday,$173934
+2021,Springfield Chestnut Crossing,Thursday,$158298
+2021,Springfield Chestnut Crossing,Friday,$186779
+2021,Springfield Chestnut Crossing,Saturday,$210177
+2021,St. Charles,Sunday,$175858
+2021,St. Charles,Monday,$178543
+2021,St. Charles,Tuesday,$190156
+2021,St. Charles,Wednesday,$196173
+2021,St. Charles,Thursday,$180049
+2021,St. Charles,Friday,$214159
+2021,St. Charles,Saturday,$257566
+2021,St. Peters,Sunday,$226770
+2021,St. Peters,Monday,$218625
+2021,St. Peters,Tuesday,$223946
+2021,St. Peters,Wednesday,$248996
+2021,St. Peters,Thursday,$243892
+2021,St. Peters,Friday,$285514
+2021,St. Peters,Saturday,$352585
+2021,St. Robert,Sunday,$128982
+2021,St. Robert,Monday,$137465
+2021,St. Robert,Tuesday,$143611
+2021,St. Robert,Wednesday,$157220
+2021,St. Robert,Thursday,$157665
+2021,St. Robert,Friday,$197772
+2021,St. Robert,Saturday,$206586
+2021,University City,Sunday,$286463
+2021,University City,Monday,$278001
+2021,University City,Tuesday,$284318
+2021,University City,Wednesday,$282075
+2021,University City,Thursday,$278520
+2021,University City,Friday,$305395
+2021,University City,Saturday,$363686
+2021,Washington,Sunday,$138822
+2021,Washington,Monday,$146443
+2021,Washington,Tuesday,$149799
+2021,Washington,Wednesday,$162103
+2021,Washington,Thursday,$150350
+2021,Washington,Friday,$193979
+2021,Washington,Saturday,$216004
+2021,Watson / Sunset Hills,Sunday,$140376
+2021,Watson / Sunset Hills,Monday,$151844
+2021,Watson / Sunset Hills,Tuesday,$158031
+2021,Watson / Sunset Hills,Wednesday,$158691
+2021,Watson / Sunset Hills,Thursday,$153840
+2021,Watson / Sunset Hills,Friday,$185703
+2021,Watson / Sunset Hills,Saturday,$209818
+2022,Alton,Sunday,$303785
+2022,Alton,Monday,$332439
+2022,Alton,Tuesday,$336505
+2022,Alton,Wednesday,$321443
+2022,Alton,Thursday,$316302
+2022,Alton,Friday,$395676
+2022,Alton,Saturday,$471979
+2022,Arnold,Sunday,$267010
+2022,Arnold,Monday,$254980
+2022,Arnold,Tuesday,$267195
+2022,Arnold,Wednesday,$251433
+2022,Arnold,Thursday,$238998
+2022,Arnold,Friday,$314066
+2022,Arnold,Saturday,$373876
+2022,Bayless,Sunday,$231237
+2022,Bayless,Monday,$201652
+2022,Bayless,Tuesday,$208128
+2022,Bayless,Wednesday,$196304
+2022,Bayless,Thursday,$186554
+2022,Bayless,Friday,$229330
+2022,Bayless,Saturday,$286202
+2022,Belleville,Sunday,$197624
+2022,Belleville,Monday,$230482
+2022,Belleville,Tuesday,$219684
+2022,Belleville,Wednesday,$219119
+2022,Belleville,Thursday,$210223
+2022,Belleville,Friday,$265030
+2022,Belleville,Saturday,$288274
+2022,Brentwood,Sunday,$185917
+2022,Brentwood,Monday,$182325
+2022,Brentwood,Tuesday,$184998
+2022,Brentwood,Wednesday,$186062
+2022,Brentwood,Thursday,$184402
+2022,Brentwood,Friday,$229407
+2022,Brentwood,Saturday,$276375
+2022,Bridgeton Outlet,Sunday,$345149
+2022,Bridgeton Outlet,Monday,$300241
+2022,Bridgeton Outlet,Tuesday,$309996
+2022,Bridgeton Outlet,Wednesday,$303575
+2022,Bridgeton Outlet,Thursday,$292971
+2022,Bridgeton Outlet,Friday,$327278
+2022,Bridgeton Outlet,Saturday,$387468
+2022,Cape Girardeau,Sunday,$275435
+2022,Cape Girardeau,Monday,$303928
+2022,Cape Girardeau,Tuesday,$302872
+2022,Cape Girardeau,Wednesday,$299525
+2022,Cape Girardeau,Thursday,$299135
+2022,Cape Girardeau,Friday,$364839
+2022,Cape Girardeau,Saturday,$423752
+2022,Carbondale,Sunday,$227745
+2022,Carbondale,Monday,$256169
+2022,Carbondale,Tuesday,$248005
+2022,Carbondale,Wednesday,$241596
+2022,Carbondale,Thursday,$242062
+2022,Carbondale,Friday,$309563
+2022,Carbondale,Saturday,$354199
+2022,Centralia,Sunday,$186297
+2022,Centralia,Monday,$225611
+2022,Centralia,Tuesday,$229008
+2022,Centralia,Wednesday,$222416
+2022,Centralia,Thursday,$232856
+2022,Centralia,Friday,$272558
+2022,Centralia,Saturday,$277088
+2022,Chesterfield Forum Center,Sunday,$233639
+2022,Chesterfield Forum Center,Monday,$240722
+2022,Chesterfield Forum Center,Tuesday,$257216
+2022,Chesterfield Forum Center,Wednesday,$240839
+2022,Chesterfield Forum Center,Thursday,$229695
+2022,Chesterfield Forum Center,Friday,$277684
+2022,Chesterfield Forum Center,Saturday,$336303
+2022,Chesterfield Valley,Sunday,$243896
+2022,Chesterfield Valley,Monday,$212890
+2022,Chesterfield Valley,Tuesday,$225204
+2022,Chesterfield Valley,Wednesday,$204499
+2022,Chesterfield Valley,Thursday,$197285
+2022,Chesterfield Valley,Friday,$254391
+2022,Chesterfield Valley,Saturday,$352142
+2022,Clayton Road,Sunday,$164433
+2022,Clayton Road,Monday,$169958
+2022,Clayton Road,Tuesday,$178650
+2022,Clayton Road,Wednesday,$162174
+2022,Clayton Road,Thursday,$161246
+2022,Clayton Road,Friday,$188557
+2022,Clayton Road,Saturday,$233556
+2022,Columbia,Sunday,$414179
+2022,Columbia,Monday,$437300
+2022,Columbia,Tuesday,$446362
+2022,Columbia,Wednesday,$446481
+2022,Columbia,Thursday,$434020
+2022,Columbia,Friday,$494940
+2022,Columbia,Saturday,$610044
+2022,Fairview Heights,Sunday,$267216
+2022,Fairview Heights,Monday,$243778
+2022,Fairview Heights,Tuesday,$264880
+2022,Fairview Heights,Wednesday,$227397
+2022,Fairview Heights,Thursday,$226703
+2022,Fairview Heights,Friday,$295695
+2022,Fairview Heights,Saturday,$405014
+2022,Farmington,Sunday,$250955
+2022,Farmington,Monday,$283053
+2022,Farmington,Tuesday,$281154
+2022,Farmington,Wednesday,$287754
+2022,Farmington,Thursday,$288615
+2022,Farmington,Friday,$361953
+2022,Farmington,Saturday,$384063
+2022,Fenton,Sunday,$212491
+2022,Fenton,Monday,$194923
+2022,Fenton,Tuesday,$200757
+2022,Fenton,Wednesday,$195213
+2022,Fenton,Thursday,$181895
+2022,Fenton,Friday,$231666
+2022,Fenton,Saturday,$277842
+2022,Ferguson,Sunday,$159251
+2022,Ferguson,Monday,$176892
+2022,Ferguson,Tuesday,$183291
+2022,Ferguson,Wednesday,$173172
+2022,Ferguson,Thursday,$170761
+2022,Ferguson,Friday,$205458
+2022,Ferguson,Saturday,$249068
+2022,Festus,Sunday,$235898
+2022,Festus,Monday,$267028
+2022,Festus,Tuesday,$262899
+2022,Festus,Wednesday,$255440
+2022,Festus,Thursday,$241938
+2022,Festus,Friday,$311551
+2022,Festus,Saturday,$346148
+2022,Florissant Square,Sunday,$325132
+2022,Florissant Square,Monday,$331474
+2022,Florissant Square,Tuesday,$325948
+2022,Florissant Square,Wednesday,$323697
+2022,Florissant Square,Thursday,$328382
+2022,Florissant Square,Friday,$393166
+2022,Florissant Square,Saturday,$477410
+2022,Glen Carbon,Sunday,$307387
+2022,Glen Carbon,Monday,$292364
+2022,Glen Carbon,Tuesday,$319862
+2022,Glen Carbon,Wednesday,$299393
+2022,Glen Carbon,Thursday,$305931
+2022,Glen Carbon,Friday,$382562
+2022,Glen Carbon,Saturday,$449149
+2022,Granite City,Sunday,$201818
+2022,Granite City,Monday,$239287
+2022,Granite City,Tuesday,$248687
+2022,Granite City,Wednesday,$238909
+2022,Granite City,Thursday,$251556
+2022,Granite City,Friday,$306604
+2022,Granite City,Saturday,$310824
+2022,Hannibal,Sunday,$227704
+2022,Hannibal,Monday,$228130
+2022,Hannibal,Tuesday,$209833
+2022,Hannibal,Wednesday,$215221
+2022,Hannibal,Thursday,$213761
+2022,Hannibal,Friday,$302759
+2022,Hannibal,Saturday,$344981
+2022,Harvester,Sunday,$287304
+2022,Harvester,Monday,$251426
+2022,Harvester,Tuesday,$250554
+2022,Harvester,Wednesday,$265366
+2022,Harvester,Thursday,$241339
+2022,Harvester,Friday,$306325
+2022,Harvester,Saturday,$400837
+2022,Jefferson City,Sunday,$288061
+2022,Jefferson City,Monday,$293177
+2022,Jefferson City,Tuesday,$298950
+2022,Jefferson City,Wednesday,$319373
+2022,Jefferson City,Thursday,$300739
+2022,Jefferson City,Friday,$388557
+2022,Jefferson City,Saturday,$432299
+2022,Jennings,Sunday,$163505
+2022,Jennings,Monday,$188033
+2022,Jennings,Tuesday,$188514
+2022,Jennings,Wednesday,$185283
+2022,Jennings,Thursday,$186727
+2022,Jennings,Friday,$241748
+2022,Jennings,Saturday,$277413
+2022,Lake St. Louis,Sunday,$429970
+2022,Lake St. Louis,Monday,$421039
+2022,Lake St. Louis,Tuesday,$402290
+2022,Lake St. Louis,Wednesday,$399196
+2022,Lake St. Louis,Thursday,$379734
+2022,Lake St. Louis,Friday,$477580
+2022,Lake St. Louis,Saturday,$583029
+2022,Manchester,Sunday,$296329
+2022,Manchester,Monday,$284461
+2022,Manchester,Tuesday,$290415
+2022,Manchester,Wednesday,$266661
+2022,Manchester,Thursday,$250395
+2022,Manchester,Friday,$319270
+2022,Manchester,Saturday,$426263
+2022,Marion,Sunday,$213576
+2022,Marion,Monday,$227031
+2022,Marion,Tuesday,$236530
+2022,Marion,Wednesday,$230542
+2022,Marion,Thursday,$235953
+2022,Marion,Friday,$289520
+2022,Marion,Saturday,$343849
+2022,Market Outlet,Sunday,$427542
+2022,Market Outlet,Monday,$381196
+2022,Market Outlet,Tuesday,$371440
+2022,Market Outlet,Wednesday,$364352
+2022,Market Outlet,Thursday,$342413
+2022,Market Outlet,Friday,$398572
+2022,Market Outlet,Saturday,$455300
+2022,Mexico,Sunday,$42759
+2022,Mexico,Monday,$41083
+2022,Mexico,Tuesday,$37859
+2022,Mexico,Wednesday,$44107
+2022,Mexico,Thursday,$59440
+2022,Mexico,Friday,$78170
+2022,Mexico,Saturday,$75410
+2022,Moberly,Sunday,$264124
+2022,Moberly,Monday,$283423
+2022,Moberly,Tuesday,$278948
+2022,Moberly,Wednesday,$299600
+2022,Moberly,Thursday,$274619
+2022,Moberly,Friday,$381487
+2022,Moberly,Saturday,$422890
+2022,O'Fallon,Sunday,$277235
+2022,O'Fallon,Monday,$266795
+2022,O'Fallon,Tuesday,$260245
+2022,O'Fallon,Wednesday,$269089
+2022,O'Fallon,Thursday,$255692
+2022,O'Fallon,Friday,$314419
+2022,O'Fallon,Saturday,$406945
+2022,Ozark,Sunday,$264172
+2022,Ozark,Monday,$254196
+2022,Ozark,Tuesday,$259945
+2022,Ozark,Wednesday,$258931
+2022,Ozark,Thursday,$251456
+2022,Ozark,Friday,$314465
+2022,Ozark,Saturday,$366082
+2022,Poplar Bluff,Sunday,$269234
+2022,Poplar Bluff,Monday,$309523
+2022,Poplar Bluff,Tuesday,$316465
+2022,Poplar Bluff,Wednesday,$301735
+2022,Poplar Bluff,Thursday,$309408
+2022,Poplar Bluff,Friday,$411381
+2022,Poplar Bluff,Saturday,$443118
+2022,Rolla,Sunday,$240818
+2022,Rolla,Monday,$283084
+2022,Rolla,Tuesday,$285673
+2022,Rolla,Wednesday,$280774
+2022,Rolla,Thursday,$274986
+2022,Rolla,Friday,$363619
+2022,Rolla,Saturday,$412686
+2022,Sikeston,Sunday,$187297
+2022,Sikeston,Monday,$201535
+2022,Sikeston,Tuesday,$208706
+2022,Sikeston,Wednesday,$206662
+2022,Sikeston,Thursday,$210470
+2022,Sikeston,Friday,$271507
+2022,Sikeston,Saturday,$316090
+2022,South County,Sunday,$386274
+2022,South County,Monday,$346137
+2022,South County,Tuesday,$376349
+2022,South County,Wednesday,$354715
+2022,South County,Thursday,$342935
+2022,South County,Friday,$433957
+2022,South County,Saturday,$540518
+2022,Springfield Battlefield,Sunday,$373882
+2022,Springfield Battlefield,Monday,$399357
+2022,Springfield Battlefield,Tuesday,$399932
+2022,Springfield Battlefield,Wednesday,$410472
+2022,Springfield Battlefield,Thursday,$407908
+2022,Springfield Battlefield,Friday,$488623
+2022,Springfield Battlefield,Saturday,$591825
+2022,Springfield Chestnut Crossing,Sunday,$238582
+2022,Springfield Chestnut Crossing,Monday,$226955
+2022,Springfield Chestnut Crossing,Tuesday,$229445
+2022,Springfield Chestnut Crossing,Wednesday,$229580
+2022,Springfield Chestnut Crossing,Thursday,$220976
+2022,Springfield Chestnut Crossing,Friday,$280347
+2022,Springfield Chestnut Crossing,Saturday,$340303
+2022,St. Charles,Sunday,$236962
+2022,St. Charles,Monday,$231131
+2022,St. Charles,Tuesday,$223669
+2022,St. Charles,Wednesday,$220301
+2022,St. Charles,Thursday,$199443
+2022,St. Charles,Friday,$262198
+2022,St. Charles,Saturday,$334037
+2022,St. Peters,Sunday,$301909
+2022,St. Peters,Monday,$271151
+2022,St. Peters,Tuesday,$275797
+2022,St. Peters,Wednesday,$293646
+2022,St. Peters,Thursday,$266124
+2022,St. Peters,Friday,$338880
+2022,St. Peters,Saturday,$439420
+2022,St. Robert,Sunday,$190037
+2022,St. Robert,Monday,$194182
+2022,St. Robert,Tuesday,$191624
+2022,St. Robert,Wednesday,$197497
+2022,St. Robert,Thursday,$189315
+2022,St. Robert,Friday,$252715
+2022,St. Robert,Saturday,$296418
+2022,University City,Sunday,$307541
+2022,University City,Monday,$275998
+2022,University City,Tuesday,$273938
+2022,University City,Wednesday,$271135
+2022,University City,Thursday,$267079
+2022,University City,Friday,$317677
+2022,University City,Saturday,$387412
+2022,Washington,Sunday,$224616
+2022,Washington,Monday,$222941
+2022,Washington,Tuesday,$218426
+2022,Washington,Wednesday,$218986
+2022,Washington,Thursday,$229122
+2022,Washington,Friday,$301563
+2022,Washington,Saturday,$341676
+2022,Watson / Sunset Hills,Sunday,$200870
+2022,Watson / Sunset Hills,Monday,$204243
+2022,Watson / Sunset Hills,Tuesday,$212122
+2022,Watson / Sunset Hills,Wednesday,$185573
+2022,Watson / Sunset Hills,Thursday,$182764
+2022,Watson / Sunset Hills,Friday,$221715
+2022,Watson / Sunset Hills,Saturday,$271399
+2023,Alton,Sunday,$205073
+2023,Alton,Monday,$236981
+2023,Alton,Tuesday,$218612
+2023,Alton,Wednesday,$218640
+2023,Alton,Thursday,$221526
+2023,Alton,Friday,$262657
+2023,Alton,Saturday,$301421
+2023,Arnold,Sunday,$184247
+2023,Arnold,Monday,$189213
+2023,Arnold,Tuesday,$179696
+2023,Arnold,Wednesday,$169789
+2023,Arnold,Thursday,$173724
+2023,Arnold,Friday,$206213
+2023,Arnold,Saturday,$258676
+2023,Bayless,Sunday,$135007
+2023,Bayless,Monday,$127964
+2023,Bayless,Tuesday,$111188
+2023,Bayless,Wednesday,$113064
+2023,Bayless,Thursday,$114706
+2023,Bayless,Friday,$127554
+2023,Bayless,Saturday,$168024
+2023,Belleville,Sunday,$121471
+2023,Belleville,Monday,$164535
+2023,Belleville,Tuesday,$140525
+2023,Belleville,Wednesday,$135689
+2023,Belleville,Thursday,$145562
+2023,Belleville,Friday,$158112
+2023,Belleville,Saturday,$186726
+2023,Brentwood,Sunday,$110662
+2023,Brentwood,Monday,$123160
+2023,Brentwood,Tuesday,$117409
+2023,Brentwood,Wednesday,$122063
+2023,Brentwood,Thursday,$126082
+2023,Brentwood,Friday,$141597
+2023,Brentwood,Saturday,$178738
+2023,Bridgeton Outlet,Sunday,$246545
+2023,Bridgeton Outlet,Monday,$203127
+2023,Bridgeton Outlet,Tuesday,$193333
+2023,Bridgeton Outlet,Wednesday,$199994
+2023,Bridgeton Outlet,Thursday,$202516
+2023,Bridgeton Outlet,Friday,$221095
+2023,Bridgeton Outlet,Saturday,$270387
+2023,Cape Girardeau,Sunday,$156839
+2023,Cape Girardeau,Monday,$189152
+2023,Cape Girardeau,Tuesday,$173775
+2023,Cape Girardeau,Wednesday,$182860
+2023,Cape Girardeau,Thursday,$197228
+2023,Cape Girardeau,Friday,$209491
+2023,Cape Girardeau,Saturday,$264767
+2023,Carbondale,Sunday,$144589
+2023,Carbondale,Monday,$162480
+2023,Carbondale,Tuesday,$148882
+2023,Carbondale,Wednesday,$150779
+2023,Carbondale,Thursday,$161535
+2023,Carbondale,Friday,$180916
+2023,Carbondale,Saturday,$233480
+2023,Centralia,Sunday,$120335
+2023,Centralia,Monday,$150329
+2023,Centralia,Tuesday,$141835
+2023,Centralia,Wednesday,$137662
+2023,Centralia,Thursday,$145179
+2023,Centralia,Friday,$163423
+2023,Centralia,Saturday,$183872
+2023,Chesterfield Forum Center,Sunday,$133211
+2023,Chesterfield Forum Center,Monday,$147835
+2023,Chesterfield Forum Center,Tuesday,$139859
+2023,Chesterfield Forum Center,Wednesday,$137447
+2023,Chesterfield Forum Center,Thursday,$139792
+2023,Chesterfield Forum Center,Friday,$149444
+2023,Chesterfield Forum Center,Saturday,$194598
+2023,Chesterfield Valley,Sunday,$177953
+2023,Chesterfield Valley,Monday,$156262
+2023,Chesterfield Valley,Tuesday,$149409
+2023,Chesterfield Valley,Wednesday,$139797
+2023,Chesterfield Valley,Thursday,$145161
+2023,Chesterfield Valley,Friday,$165772
+2023,Chesterfield Valley,Saturday,$264323
+2023,Clayton Road,Sunday,$100663
+2023,Clayton Road,Monday,$114563
+2023,Clayton Road,Tuesday,$104656
+2023,Clayton Road,Wednesday,$96918
+2023,Clayton Road,Thursday,$94682
+2023,Clayton Road,Friday,$108330
+2023,Clayton Road,Saturday,$145376
+2023,Columbia,Sunday,$293412
+2023,Columbia,Monday,$305580
+2023,Columbia,Tuesday,$287260
+2023,Columbia,Wednesday,$303191
+2023,Columbia,Thursday,$303741
+2023,Columbia,Friday,$341766
+2023,Columbia,Saturday,$425675
+2023,Fairview Heights,Sunday,$145130
+2023,Fairview Heights,Monday,$142498
+2023,Fairview Heights,Tuesday,$140640
+2023,Fairview Heights,Wednesday,$132184
+2023,Fairview Heights,Thursday,$138782
+2023,Fairview Heights,Friday,$158009
+2023,Fairview Heights,Saturday,$226666
+2023,Farmington,Sunday,$150793
+2023,Farmington,Monday,$167112
+2023,Farmington,Tuesday,$157717
+2023,Farmington,Wednesday,$170947
+2023,Farmington,Thursday,$182107
+2023,Farmington,Friday,$218470
+2023,Farmington,Saturday,$252589
+2023,Fenton,Sunday,$115675
+2023,Fenton,Monday,$111465
+2023,Fenton,Tuesday,$99360
+2023,Fenton,Wednesday,$102515
+2023,Fenton,Thursday,$106757
+2023,Fenton,Friday,$123635
+2023,Fenton,Saturday,$157411
+2023,Ferguson,Sunday,$54033
+2023,Ferguson,Monday,$76594
+2023,Ferguson,Tuesday,$72590
+2023,Ferguson,Wednesday,$63359
+2023,Ferguson,Thursday,$60869
+2023,Ferguson,Friday,$72183
+2023,Ferguson,Saturday,$95365
+2023,Festus,Sunday,$139081
+2023,Festus,Monday,$159666
+2023,Festus,Tuesday,$149565
+2023,Festus,Wednesday,$153687
+2023,Festus,Thursday,$157791
+2023,Festus,Friday,$181930
+2023,Festus,Saturday,$217003
+2023,Florissant Square,Sunday,$191437
+2023,Florissant Square,Monday,$218363
+2023,Florissant Square,Tuesday,$194854
+2023,Florissant Square,Wednesday,$189769
+2023,Florissant Square,Thursday,$194233
+2023,Florissant Square,Friday,$223501
+2023,Florissant Square,Saturday,$292184
+2023,Glen Carbon,Sunday,$158039
+2023,Glen Carbon,Monday,$159953
+2023,Glen Carbon,Tuesday,$149192
+2023,Glen Carbon,Wednesday,$156384
+2023,Glen Carbon,Thursday,$152644
+2023,Glen Carbon,Friday,$213210
+2023,Glen Carbon,Saturday,$245414
+2023,Granite City,Sunday,$127136
+2023,Granite City,Monday,$157962
+2023,Granite City,Tuesday,$139823
+2023,Granite City,Wednesday,$143712
+2023,Granite City,Thursday,$148488
+2023,Granite City,Friday,$179456
+2023,Granite City,Saturday,$188962
+2023,Hannibal,Sunday,$131856
+2023,Hannibal,Monday,$156021
+2023,Hannibal,Tuesday,$121698
+2023,Hannibal,Wednesday,$130525
+2023,Hannibal,Thursday,$133458
+2023,Hannibal,Friday,$159471
+2023,Hannibal,Saturday,$209723
+2023,Harvester,Sunday,$179064
+2023,Harvester,Monday,$174292
+2023,Harvester,Tuesday,$157735
+2023,Harvester,Wednesday,$158535
+2023,Harvester,Thursday,$162708
+2023,Harvester,Friday,$188784
+2023,Harvester,Saturday,$270982
+2023,Jefferson City,Sunday,$160549
+2023,Jefferson City,Monday,$178719
+2023,Jefferson City,Tuesday,$167606
+2023,Jefferson City,Wednesday,$186899
+2023,Jefferson City,Thursday,$175809
+2023,Jefferson City,Friday,$219620
+2023,Jefferson City,Saturday,$260756
+2023,Jennings,Sunday,$103610
+2023,Jennings,Monday,$132285
+2023,Jennings,Tuesday,$123756
+2023,Jennings,Wednesday,$119862
+2023,Jennings,Thursday,$129491
+2023,Jennings,Friday,$146423
+2023,Jennings,Saturday,$174605
+2023,Lake St. Louis,Sunday,$280554
+2023,Lake St. Louis,Monday,$273624
+2023,Lake St. Louis,Tuesday,$240552
+2023,Lake St. Louis,Wednesday,$243548
+2023,Lake St. Louis,Thursday,$246576
+2023,Lake St. Louis,Friday,$288968
+2023,Lake St. Louis,Saturday,$396053
+2023,Manchester,Sunday,$194728
+2023,Manchester,Monday,$195277
+2023,Manchester,Tuesday,$170644
+2023,Manchester,Wednesday,$161016
+2023,Manchester,Thursday,$165505
+2023,Manchester,Friday,$184216
+2023,Manchester,Saturday,$262820
+2023,Marion,Sunday,$147248
+2023,Marion,Monday,$154413
+2023,Marion,Tuesday,$139973
+2023,Marion,Wednesday,$148636
+2023,Marion,Thursday,$154395
+2023,Marion,Friday,$183368
+2023,Marion,Saturday,$239385
+2023,Market Outlet,Sunday,$241322
+2023,Market Outlet,Monday,$246283
+2023,Market Outlet,Tuesday,$230326
+2023,Market Outlet,Wednesday,$235963
+2023,Market Outlet,Thursday,$227742
+2023,Market Outlet,Friday,$256255
+2023,Market Outlet,Saturday,$287997
+2023,Mexico,Sunday,$106193
+2023,Mexico,Monday,$113714
+2023,Mexico,Tuesday,$98435
+2023,Mexico,Wednesday,$102805
+2023,Mexico,Thursday,$109972
+2023,Mexico,Friday,$149718
+2023,Mexico,Saturday,$176265
+2023,Moberly,Sunday,$157270
+2023,Moberly,Monday,$183023
+2023,Moberly,Tuesday,$164595
+2023,Moberly,Wednesday,$169424
+2023,Moberly,Thursday,$167241
+2023,Moberly,Friday,$211604
+2023,Moberly,Saturday,$261063
+2023,O'Fallon,Sunday,$167806
+2023,O'Fallon,Monday,$171500
+2023,O'Fallon,Tuesday,$153167
+2023,O'Fallon,Wednesday,$149349
+2023,O'Fallon,Thursday,$159063
+2023,O'Fallon,Friday,$184019
+2023,O'Fallon,Saturday,$253218
+2023,Ozark,Sunday,$160940
+2023,Ozark,Monday,$176479
+2023,Ozark,Tuesday,$155649
+2023,Ozark,Wednesday,$153680
+2023,Ozark,Thursday,$160052
+2023,Ozark,Friday,$186185
+2023,Ozark,Saturday,$240959
+2023,Poplar Bluff,Sunday,$160649
+2023,Poplar Bluff,Monday,$200272
+2023,Poplar Bluff,Tuesday,$172185
+2023,Poplar Bluff,Wednesday,$183319
+2023,Poplar Bluff,Thursday,$199439
+2023,Poplar Bluff,Friday,$246230
+2023,Poplar Bluff,Saturday,$299716
+2023,Rolla,Sunday,$140499
+2023,Rolla,Monday,$179247
+2023,Rolla,Tuesday,$169886
+2023,Rolla,Wednesday,$176377
+2023,Rolla,Thursday,$177114
+2023,Rolla,Friday,$225969
+2023,Rolla,Saturday,$261873
+2023,Sikeston,Sunday,$119656
+2023,Sikeston,Monday,$139201
+2023,Sikeston,Tuesday,$136059
+2023,Sikeston,Wednesday,$140957
+2023,Sikeston,Thursday,$144241
+2023,Sikeston,Friday,$171777
+2023,Sikeston,Saturday,$213764
+2023,South County,Sunday,$239307
+2023,South County,Monday,$238818
+2023,South County,Tuesday,$220223
+2023,South County,Wednesday,$211182
+2023,South County,Thursday,$218356
+2023,South County,Friday,$250234
+2023,South County,Saturday,$340518
+2023,Springfield Battlefield,Sunday,$240424
+2023,Springfield Battlefield,Monday,$260918
+2023,Springfield Battlefield,Tuesday,$238057
+2023,Springfield Battlefield,Wednesday,$252991
+2023,Springfield Battlefield,Thursday,$251375
+2023,Springfield Battlefield,Friday,$303830
+2023,Springfield Battlefield,Saturday,$380411
+2023,Springfield Chestnut Crossing,Sunday,$152910
+2023,Springfield Chestnut Crossing,Monday,$153579
+2023,Springfield Chestnut Crossing,Tuesday,$133764
+2023,Springfield Chestnut Crossing,Wednesday,$141870
+2023,Springfield Chestnut Crossing,Thursday,$142640
+2023,Springfield Chestnut Crossing,Friday,$168917
+2023,Springfield Chestnut Crossing,Saturday,$231278
+2023,St. Charles,Sunday,$145295
+2023,St. Charles,Monday,$153482
+2023,St. Charles,Tuesday,$130432
+2023,St. Charles,Wednesday,$132447
+2023,St. Charles,Thursday,$135546
+2023,St. Charles,Friday,$152597
+2023,St. Charles,Saturday,$200044
+2023,St. Peters,Sunday,$188481
+2023,St. Peters,Monday,$190810
+2023,St. Peters,Tuesday,$177611
+2023,St. Peters,Wednesday,$172318
+2023,St. Peters,Thursday,$170822
+2023,St. Peters,Friday,$198612
+2023,St. Peters,Saturday,$275166
+2023,St. Robert,Sunday,$111515
+2023,St. Robert,Monday,$122748
+2023,St. Robert,Tuesday,$106575
+2023,St. Robert,Wednesday,$112810
+2023,St. Robert,Thursday,$118971
+2023,St. Robert,Friday,$143897
+2023,St. Robert,Saturday,$182138
+2023,University City,Sunday,$191149
+2023,University City,Monday,$201936
+2023,University City,Tuesday,$173185
+2023,University City,Wednesday,$186002
+2023,University City,Thursday,$185329
+2023,University City,Friday,$218185
+2023,University City,Saturday,$266949
+2023,Washington,Sunday,$167239
+2023,Washington,Monday,$168892
+2023,Washington,Tuesday,$157642
+2023,Washington,Wednesday,$157332
+2023,Washington,Thursday,$162863
+2023,Washington,Friday,$207281
+2023,Washington,Saturday,$260134
+2023,Watson / Sunset Hills,Sunday,$112684
+2023,Watson / Sunset Hills,Monday,$124593
+2023,Watson / Sunset Hills,Tuesday,$115648
+2023,Watson / Sunset Hills,Wednesday,$108193
+2023,Watson / Sunset Hills,Thursday,$108752
+2023,Watson / Sunset Hills,Friday,$120373
+2023,Watson / Sunset Hills,Saturday,$162372
