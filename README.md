@@ -127,7 +127,7 @@ Based on our comprehensive analysis, we recommend establishing a new store in th
 
 ### Rationale for Recommendation
 
-The recommended location west of St. Robert offers the optimal balance of revenue potential and market isolation. This area is sufficiently distant from existing stores to avoid cannibalization while benefiting from regional revenue patterns observed in our analysis. The location's high combined score indicates strong potential for success based on both revenue projections and strategic positioning.
+The recommended location west of St. Robert offers the optimal balance of revenue potential and market isolation. This area is sufficiently distant from existing stores while benefiting from regional revenue patterns observed in our analysis. The location's high combined score indicates strong potential for success based on both revenue projections and strategic positioning.
 
 ### Operational Recommendations
 
